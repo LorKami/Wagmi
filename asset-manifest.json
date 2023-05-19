@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.60688f2f.css",
-    "main.js": "/static/js/main.7cb9a7e7.js",
+    "main.js": "/static/js/main.9f58f00f.js",
     "static/media/back.png": "/static/media/back.975525d06532c24cfa44.png",
     "static/media/wagface.png": "/static/media/wagface.9e1a3a2dadfb03b05cd7.png",
     "static/media/wagboy.png": "/static/media/wagboy.caf1155df07bf67ffa43.png",
@@ -9,10 +9,10 @@
     "static/media/Logo2.png": "/static/media/Logo2.1a4cecad02f46543e52c.png",
     "index.html": "/index.html",
     "main.60688f2f.css.map": "/static/css/main.60688f2f.css.map",
-    "main.7cb9a7e7.js.map": "/static/js/main.7cb9a7e7.js.map"
+    "main.9f58f00f.js.map": "/static/js/main.9f58f00f.js.map"
   },
   "entrypoints": [
     "static/css/main.60688f2f.css",
-    "static/js/main.7cb9a7e7.js"
+    "static/js/main.9f58f00f.js"
   ]
 }
